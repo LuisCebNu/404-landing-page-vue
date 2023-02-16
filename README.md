@@ -1,4 +1,4 @@
-# t
+# 404 landing page
 
 ## Project setup
 ```
